@@ -6,5 +6,5 @@
 - 👯 I’m always looking to collaborate with fellow developers and teams on exciting projects.
 - 📫 How to reach me: husniantonaufal@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love solving problems and turning ideas into reality through code!
+- ⚡ I love solving problems and turning ideas into reality through code!
 
