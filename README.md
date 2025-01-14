@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalhusnianto&label=Profile%20views&color=0e75b6&style=flat" alt="naufalhusnianto" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naufalhusnianto" alt="naufalhusnianto" /></a> </p>
   
-- 🌱 I’m currently exploring new technologies :  **laravel, reactJS, Dart, Flutter, Spring, NextJS**  
+- 🌱 I’m currently exploring new technologies :  **laravel, Codeigniter, ReactJS, Dart, Flutter, Spring, NextJS**  
 - 👯 I’m always looking to collaborate with fellow developers and teams on exciting projects.
 - 📫 How to reach me: husniantonaufal@gmail.com
 - ⚡ I love solving problems and turning ideas into reality through code!
