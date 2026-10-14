@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Naufal Husnianto</h1>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalhusnianto&label=Profile%20views&color=0e75b6&style=flat" alt="naufalhusnianto" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naufalhusnianto" alt="naufalhusnianto" /></a> </p>
   
 - 🌱 I’m currently exploring new technologies :  **NextJS, laravel, Codeigniter, ReactJS, Dart, Flutter**  
 - 👯 I’m always looking to collaborate with fellow developers and teams on exciting projects.
